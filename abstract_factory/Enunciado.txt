@@ -1,0 +1,5 @@
+El juego Mario Bros consiste en ir superando niveles. Cada nivel incrementa la dificultad. Reduciendo detalles, supongamos que la dificultad se basa en el comportamiento del entorno: hongos, tortugas y ladrillos. Según vamos subiendo niveles, éstos elemento se comportan de la siguiente manera:
+Nivel 1, color amarillo: Hongos (aparecen de 2 en 2), Tortugas (son lentas) y Ladrillos (se rompen con 1 golpe)
+Nivel 2, color rojo: Hongos (aparecen de 4 en 4), Tortugas (son rápidas) y Ladrillos (se rompen con 2 golpes)
+Nivel 3, color azul: Hongos (aparecen de 6 en 6), Tortugas (son super rápidas) y 	Ladrillos (se rompen con 3 golpes)
+Se debe encontrar una manera eficiente de poder crear cada uno de estos objetos.
